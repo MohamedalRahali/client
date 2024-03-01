@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/image_modif">
+        <file>MODIFIER.png</file>
+    </qresource>
+</RCC>

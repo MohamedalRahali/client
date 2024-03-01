@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/imgclient">
+        <file>imageclient.jpg</file>
+    </qresource>
+</RCC>
